@@ -1,0 +1,47 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Analisi dei requisiti}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Requisiti essenziali}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Categorie di utenti}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Mappa indicativa del sito}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Pagine consultabili dal pubblico}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Pagina di login}{subsection.2.3}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Pagine di amministrazione}{subsection.2.3}% 8
+\BOOKMARK [1][-]{section.3}{Database}{}% 9
+\BOOKMARK [1][-]{section.4}{Design}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Layout}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Organizzazione dei contenuti}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Accessibilit\340}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Colori}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Testo}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Immagini}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.4}{Tabelle}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.5}{Forms}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.6}{Navigabilit\340}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.7}{Altri accorgimenti grafici}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.8}{Altri accorgimenti di contenuto}{section.5}% 21
+\BOOKMARK [1][-]{section.6}{JavaScript}{}% 22
+\BOOKMARK [2][-]{subsection.6.1}{Pagina dove siamo}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.2}{Controlli nei form lato client}{section.6}% 24
+\BOOKMARK [1][-]{section.7}{PHP}{}% 25
+\BOOKMARK [2][-]{subsection.7.1}{Considerazioni generali}{section.7}% 26
+\BOOKMARK [2][-]{subsection.7.2}{Sicurezza}{section.7}% 27
+\BOOKMARK [2][-]{subsection.7.3}{Controlli lato server}{section.7}% 28
+\BOOKMARK [2][-]{subsection.7.4}{Pagine PHP}{section.7}% 29
+\BOOKMARK [3][-]{subsubsection.7.4.1}{Tours}{subsection.7.4}% 30
+\BOOKMARK [3][-]{subsubsection.7.4.2}{Biglietti}{subsection.7.4}% 31
+\BOOKMARK [3][-]{subsubsection.7.4.3}{Acquista biglietti}{subsection.7.4}% 32
+\BOOKMARK [3][-]{subsubsection.7.4.4}{Pagina di accesso all'area di amministrazione}{subsection.7.4}% 33
+\BOOKMARK [2][-]{subsection.7.5}{Pagine di amministrazione}{section.7}% 34
+\BOOKMARK [3][-]{subsubsection.7.5.1}{Home page amministrazione}{subsection.7.5}% 35
+\BOOKMARK [3][-]{subsubsection.7.5.2}{Cerca e visualizza biglietti}{subsection.7.5}% 36
+\BOOKMARK [3][-]{subsubsection.7.5.3}{Modifica tour}{subsection.7.5}% 37
+\BOOKMARK [3][-]{subsubsection.7.5.4}{Modifica tipologie dei biglietti}{subsection.7.5}% 38
+\BOOKMARK [3][-]{subsubsection.7.5.5}{Inserisci tour}{subsection.7.5}% 39
+\BOOKMARK [2][-]{subsection.7.6}{Altri script PHP}{section.7}% 40
+\BOOKMARK [1][-]{section.8}{Tecnologie e strumenti utilizzati}{}% 41
+\BOOKMARK [2][-]{subsection.8.1}{Installazione del sito}{section.8}% 42
+\BOOKMARK [2][-]{subsection.8.2}{Tecnologie utilizzate}{section.8}% 43
+\BOOKMARK [2][-]{subsection.8.3}{Strumenti di validazione}{section.8}% 44
+\BOOKMARK [2][-]{subsection.8.4}{Test su diversi browser}{section.8}% 45
+\BOOKMARK [2][-]{subsection.8.5}{Strumenti ausiliari}{section.8}% 46
+\BOOKMARK [2][-]{subsection.8.6}{Metodologia di lavoro}{section.8}% 47

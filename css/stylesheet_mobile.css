@@ -1,0 +1,369 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Marcellus+SC');
+
+*{	
+	padding: 0em;
+	margin: 0em;
+}
+
+/*
+rosso scuro         (AAA su white) 421515 (sfondo pagina)
+rosso scurissimo    (AAA su white) 371212
+rosso medio-scuro	(AAA su white) 5e1b1b
+rosso medio         (AAA su white) 9e2829 
+rosso chiaro        (AAA su black) ef8585
+*/
+
+body {
+	background-color: #421515;
+    background:url('../img/images.jpeg');
+	background-attachment: fixed;
+	color: white;
+    font-family: 'Roboto', sans-serif;
+	font-size: 9pt;
+    margin: 0% 3%;
+    line-height:16pt;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+/*------------------------------------HEADER---------------------------------*/
+
+#header {
+    border-radius: 0.8em;
+	color: white;
+	background-color: black;
+    min-height: 4.5em;
+    padding: 1em;
+    margin: auto;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+	text-align: center;
+}
+
+#header img#logo {
+    height: 4.5em;
+    display: inline;
+    float: left;
+}
+
+#header h1 {
+    display: inline;
+    width: 65%;
+	font-size: 16pt;
+    font-family: 'Marcellus SC', sans-serif;
+}
+
+/*------------------------------------NAV---------------------------------*/
+
+#nav ul {
+    font-family: 'Marcellus SC', sans-serif;
+	font-size: 12pt;
+	list-style-type: none;
+	background-color: #9e2829;
+	color: white;
+	margin: 1.5em 0em 0em 0em;
+	border-radius: 4pt;
+    min-width: 4.5em;
+}
+
+#nav li {
+	text-align: center;
+	padding: 0.2em 1em;
+}
+
+#nav li a {
+	color: white;
+	display: block;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	text-decoration: none;
+}
+
+#nav li#current_page{
+	background-color: #371212;
+	border: solid 0.5px;
+	border-radius: 4pt ;
+}
+
+#nav li:hover {
+	background-color: #c54040;
+	border-radius: 4pt;
+	-webkit-transition: background-color 200ms ease-out;
+    -moz-transition: background-color 200ms ease-out;
+    -o-transition: background-color 200ms ease-out;
+    transition: background-color 200ms ease-out;
+}
+/*--------------------------------GENERICO--------------------------*/
+#path {
+    margin: 0.3em;
+}
+
+p {
+	padding: 0.5em 0em;
+}
+
+.hidden {
+	position: absolute;
+ 	left: 0em;
+ 	top: -500em;
+ 	width: 1em;
+ 	height: 1em;
+ 	overflow: hidden;
+}
+
+#content {
+    margin: 0%;
+    padding: 5% 10%;
+    background-color: black;
+    border-radius: 4pt;
+    padding-bottom: 5em;
+}
+
+h2 {
+    font-family: 'Marcellus SC', sans-serif;
+	font-size: 18pt;
+    margin: 2em 0em 0.5em 0em;
+    color: #ef8585;
+}
+
+h3 {
+    margin: 3em 0em 0.5em 1em;
+    color: #ef8585;
+}
+
+h4 {
+    margin: 3em 0em 0.5em 1em;
+    color: white;
+}
+/*------------------------------------FOOTER-------------------------------*/
+#footer a {
+	color:white;
+}
+
+#footer a:hover {
+	text-decoration:underline;
+}
+
+#footer img{
+	float:left;
+	margin: 0.5em 0.5em 0.5em 0em;
+}
+
+.rightfoot {
+    float:right;
+}
+
+#footer form{
+	margin: 0em;
+	padding: 0em;
+}
+
+input[type=submit].rightfoot, #footer span {
+	padding: 0.1em 1em;
+	font-size:9pt;
+}
+
+a.rightfoot {
+    margin: 0.5em 0em 0em 0.5em;
+	padding: 0.1em 1em;
+}
+
+span.rightfoot {
+	float:left;
+}
+
+
+/*------------------------------------HOME---------------------------------*/
+img#entrata_museo {
+	width: 40%;
+	min-width: 16em;
+	max-width:40em;
+	display: inline;
+	margin: auto;
+}
+
+/*--------------------------------BIGLIETTI---------------------------------*/
+
+table {
+    background-color: white;
+    color: #421515;
+    width: 60%;
+    min-width: 25em;
+    border-collapse: collapse;
+    margin: 3em 0em;
+}
+
+table, th, td {
+    border: 1px solid #441111;
+}
+
+td {
+    width:20%;
+    padding: 0.5em;
+}
+
+td.first_column {
+    color: black;
+}
+
+th {
+    padding: 1em;
+    background-color: #421515;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #e5bebe;
+}
+
+.descrizione, .error ul{
+	list-style-type:none;
+	margin: 0.5em 0.5em 6.5em 1.2em;
+	padding: 0.5em 0.5em 0.5em 1em;
+	border-left: 1pt solid #9E2829;
+	width: 75%;
+	min-width: 10em;
+}
+
+/*-------------------------------FORM----------------------------*/
+form {
+	padding-top: 1em;
+	padding-bottom: 5em;
+}
+
+input[type=submit], input[type=reset], .buttongrad{
+	margin: 0.5em;
+	color: white;
+	background: #371212; /* For browsers that do not support gradients */
+	padding: 0.5em;
+	border-radius: 0.3em;
+	border-top: 0pt;
+	border-left: 0pt;
+	border-bottom: 1pt solid #5e1b1b;
+	border-right: 1pt solid #5e1b1b;
+	cursor: pointer;
+	min-width: 8em;
+	float: right;
+}
+
+input[type=submit]:hover, input[type=reset]:hover, .buttongrad:hover {
+	text-decoration:underline;
+}
+
+input[type=submit].grad, input[type=reset].grad, .buttongrad, .grad{
+    background: #5e1b1b; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#5e1b1b, #110303); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#5e1b1b, #110303); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#5e1b1b, #110303); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#5e1b1b, #110303); /* Standard syntax */
+}
+
+input[type=text], input[type=password], select {
+	margin: 0.5em;
+	width:18em;
+    padding: 0.1em;
+	display:block;
+}
+
+select {
+	cursor:pointer;
+}
+
+label {
+	margin: 0.5em;
+	display:block;
+}
+
+input[type=text].data{
+    width: 4em;
+}
+
+.form_group {
+	border: 0pt;
+	margin: 1em;
+}
+
+fieldset{
+	border: 1pt solid #421515;
+	border-radius:1em;
+    padding: 1em;
+	max-width: 35em;
+	min-width: 10em;
+}
+
+textarea{
+	border-radius:0.5em;
+}
+
+/*SERVIZI---------------------------------------------------------------------*/
+.servizi img {
+	margin: 2em 2em 2em 5em;
+	max-width: 80%;
+	float: right;
+}
+
+.servizi p {
+	margin: 2em 5em 2em 1em;
+}
+
+/*DOVE---------------------------------------------------------------------*/
+.img_map {
+    max-width: 100%;
+    height: auto;
+	margin:1em;
+}
+
+.map {
+    width: 100%;
+    max-height: 30em;
+    display: block;
+}
+
+/*TOURS--------------------------------------------------------------------*/
+img.tours {
+	width: 30%;
+	min-width: 10em;
+	display: inline;
+	margin: 1em;
+}
+
+/*NOT-FOUND-----------------------------------------------------------------*/
+#img404 {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    margin-top: 1em;
+	border: 5px solid black;
+}
+
+/*AMMINISTRAZIONE-----------------------------------------------------------*/
+ul.descrizione{
+	list-style-type:none;
+}
+
+.dettaglio {
+	padding: 0em 0em 1em 3em;
+	list-style-type:none;
+}
+
+#special_link {
+	color:#ef8585;
+}
+
+/*ERRORI JAVASCRIPT---------------------------------------------------------*/
+strong.errori {
+	font-family: 'Roboto', sans-serif;
+	font-size: 13pt;
+	color: #ef8585;
+}

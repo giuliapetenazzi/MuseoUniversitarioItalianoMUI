@@ -1,0 +1,49 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Abstract}{3}{section.1}
+\contentsline {section}{\numberline {2}Analisi dei requisiti}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Requisiti essenziali}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Categorie di utenti}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Mappa indicativa del sito}{5}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Pagine consultabili dal pubblico}{5}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Pagina di login}{5}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Pagine di amministrazione}{5}{subsubsection.2.3.3}
+\contentsline {section}{\numberline {3}Database}{6}{section.3}
+\contentsline {section}{\numberline {4}Design}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}Layout}{8}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Organizzazione dei contenuti}{12}{subsection.4.2}
+\contentsline {section}{\numberline {5}Accessibilit\IeC {\`a}}{13}{section.5}
+\contentsline {subsection}{\numberline {5.1}Colori}{13}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Testo}{13}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Immagini}{14}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Tabelle}{14}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Forms}{14}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Navigabilit\IeC {\`a}}{14}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Altri accorgimenti grafici}{15}{subsection.5.7}
+\contentsline {subsection}{\numberline {5.8}Altri accorgimenti di contenuto}{15}{subsection.5.8}
+\contentsline {section}{\numberline {6}JavaScript}{16}{section.6}
+\contentsline {subsection}{\numberline {6.1}Pagina dove siamo}{16}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Controlli nei form lato client}{16}{subsection.6.2}
+\contentsline {section}{\numberline {7}PHP}{17}{section.7}
+\contentsline {subsection}{\numberline {7.1}Considerazioni generali}{17}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Sicurezza}{17}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Controlli lato server}{17}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Pagine PHP}{18}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}Tours}{18}{subsubsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.2}Biglietti}{18}{subsubsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.3}Acquista biglietti}{18}{subsubsection.7.4.3}
+\contentsline {subsubsection}{\numberline {7.4.4}Pagina di accesso all'area di amministrazione}{18}{subsubsection.7.4.4}
+\contentsline {subsection}{\numberline {7.5}Pagine di amministrazione}{19}{subsection.7.5}
+\contentsline {subsubsection}{\numberline {7.5.1}Home page amministrazione}{19}{subsubsection.7.5.1}
+\contentsline {subsubsection}{\numberline {7.5.2}Cerca e visualizza biglietti}{19}{subsubsection.7.5.2}
+\contentsline {subsubsection}{\numberline {7.5.3}Modifica tour}{19}{subsubsection.7.5.3}
+\contentsline {subsubsection}{\numberline {7.5.4}Modifica tipologie dei biglietti}{19}{subsubsection.7.5.4}
+\contentsline {subsubsection}{\numberline {7.5.5}Inserisci tour}{19}{subsubsection.7.5.5}
+\contentsline {subsection}{\numberline {7.6}Altri script PHP}{20}{subsection.7.6}
+\contentsline {section}{\numberline {8}Tecnologie e strumenti utilizzati}{21}{section.8}
+\contentsline {subsection}{\numberline {8.1}Installazione del sito}{21}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Tecnologie utilizzate}{21}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Strumenti di validazione}{21}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Test su diversi browser}{21}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Strumenti ausiliari}{23}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}Metodologia di lavoro}{23}{subsection.8.6}
